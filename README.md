@@ -1,4 +1,33 @@
 Pharmacist
 ==========
-
 First mini meet with client assignment
+
+
+==========
+Scenario
+----------
+1. Audience: The audience is going to be the pharmasist as well as the secretary 
+that will be entering the data into the database. Depending on how broad a definition 
+of audience you use, the patients will also be part of the audience, as they will 
+receive notifications about their prescription from the program.
+
+----------
+2. Time Estimation: Databases (Patients, Medications, Use History) ~ 1 week; Web pages including secure log on, 
+web reports, patient information input ~ 4 months; auto notify patients and get back response (no 
+clue, so training time) ~ 1 month ************ Approximately 6 months, release Febuary or March
+
+----------
+3. Language: HTML, JavaScript, HTML5, CSharp
+
+----------
+4. Platform: Web - Chrome
+
+----------
+5. Nice to have but not required: Support other browsers (FireFox, IE); GUI for patient 
+input by secretary; different permissions (Pharmasist, Secretary, Patient); dynamic 
+database (resizable); 
+
+----------
+Speifically Requested: Bar graphs; medication history; how often missed; auto-remind patients to take meds; 
+text reminder, call home if no cell, no notification otherwise; patient text or call to notify if meds were 
+taken; release by Jan 1st
